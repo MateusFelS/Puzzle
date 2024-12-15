@@ -1,4 +1,4 @@
-# Cenários de Testes
+# Casos de Testes
 
 ## CT01: Começar o jogo
 **Passos:**
